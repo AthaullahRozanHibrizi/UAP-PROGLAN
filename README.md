@@ -96,6 +96,5 @@ Dikembangkan oleh: **[Athaullah Rozan Hibrizi]**
 
 ---
 
-## Lisensi
-Aplikasi ini dilisensikan di bawah [Lisensi MIT](https://opensource.org/licenses/MIT).
+
 
