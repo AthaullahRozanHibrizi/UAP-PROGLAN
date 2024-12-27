@@ -42,7 +42,8 @@ Program ini adalah aplikasi simulasi sistem antrian berbasis GUI (Graphical User
 ## Screenshot Program
 **Antarmuka Utama:**
 
-_(Tambahkan screenshot antarmuka utama aplikasi di sini)_
+![image](https://github.com/user-attachments/assets/7c05b7ae-a399-4cd3-9907-234e6f4144c2)
+
 
 ---
 
@@ -91,7 +92,7 @@ QueueSimulation.java   # File utama yang berisi seluruh kode aplikasi
 ---
 
 ## Kontributor
-Dikembangkan oleh: **[Nama Anda]**
+Dikembangkan oleh: **[Athaullah Rozan Hibrizi]**
 
 ---
 
